@@ -42,6 +42,10 @@ Homepolish has 2 primary types of users: clients and designers. Throughout the d
 2. `npm install && npm start` (or `yarn` commands if you prefer)
 3. `http://localhost:3000`
 
+## Tests
+
+`npm test` runs your tests in "watch" mode [[docs](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#command-line-interface)].
+
 ## Submission
 
 **Important:** Push your finished work to a **private** repository. Bitbucket is free for this and an ideal place to push your code. When you're done, please give the following emails access to your solution:
