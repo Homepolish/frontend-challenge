@@ -21,7 +21,7 @@ Homepolish has 2 primary types of users: clients and designers. Throughout the d
 
 * Task list with list items which are `not_started`
 * Task list with list items which are `complete`
-* Input on the `not_started` list item which allows the user to add a new task
+* Input on the `not_started` list which allows the user to add a new task
 * Button on the `not_started` list item to transition a task from `not_started` to `complete`
 * Hover state for the transition button defined above, which looks like this:
 
