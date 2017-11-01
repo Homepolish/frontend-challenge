@@ -15,22 +15,26 @@ Thanks for taking the time to go through this process!
 
 Homepolish has 2 primary types of users: clients and designers. Throughout the design process, clients and designers can use a checklist tool to outline tasks as well as items to be purchased for the project. You will be building a limited set of features for this checklist using React.
 
-![The checklist](https://user-images.githubusercontent.com/3035355/32294796-e8ca5c40-bf0c-11e7-82aa-4e6504f3275d.png)
+![The checklist](https://user-images.githubusercontent.com/3035355/32299865-bdf1e776-bf1c-11e7-9013-51c7d6522ff9.png)
 
 ### Features
 
 * Task list with list items which are `not_started`
 * Task list with list items which are `complete`
-* Input on the `not_started` list which allows the user to add a new task
 * Button on the `not_started` list item to transition a task from `not_started` to `complete`
+* An alert is shown when a task transitions from `not_started` to `complete`, like this:
+
+![Alert](https://user-images.githubusercontent.com/3035355/32300670-3f739ea4-bf20-11e7-8e9c-e995e4a7b199.png)
+
 * Hover state for the transition button defined above, which looks like this:
 
-![Hover state](https://user-images.githubusercontent.com/3035355/32294797-e8da9024-bf0c-11e7-81dd-5014bff84aa8.png)
+![Hover state](https://user-images.githubusercontent.com/3035355/32300433-1fce9776-bf1f-11e7-9cf1-747f14c2cd31.gif)
 
 ### Requirements
 
 * Use whatever libraries and tools you are familiar with, aside from those already setup in this repo
 * Build in any behavior that you think makes sense which is not defined in the feature set above. If you don't have time for everything, that's ok. Document what you weren't able to finish
+* For the alerts, avoid a third party library. We are interested in the choices that you make in setting up this behavior.
 
 ### Starting point
 
