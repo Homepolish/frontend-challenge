@@ -34,7 +34,7 @@ Homepolish has 2 primary types of users: clients and designers. Throughout the d
 
 * Use whatever libraries and tools you are familiar with, aside from those already setup in this repo
 * Build in any behavior that you think makes sense which is not defined in the feature set above. If you don't have time for everything, that's ok. Document what you weren't able to finish
-* For the alerts, avoid a third party library. We are interested in the choices that you make in setting up this behavior.
+* For the alerts, avoid a third party alert library. We are interested in the choices that you make in setting up this behavior.
 
 ### Starting point
 
