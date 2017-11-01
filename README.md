@@ -1,5 +1,4 @@
 Homepolish Frontend Challenge
-
 ----
 
 ## Methodology
