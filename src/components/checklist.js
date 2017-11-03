@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components'
 
-const SyledChecklist = styled.div`
+const StyledChecklist = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,9 +9,9 @@ const SyledChecklist = styled.div`
 `
 
 const Checklist = ({ tasks }) => (
-  <SyledChecklist>
+  <StyledChecklist>
     <div>The checklist</div>
-  </SyledChecklist>
+  </StyledChecklist>
 );
 
 export default Checklist;
