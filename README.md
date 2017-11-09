@@ -58,9 +58,9 @@ Homepolish has 2 primary types of users: clients and designers. Throughout the d
 
 ## Tips
 
+* Try as best as you can to match the design. While the font family wont match exactly as a premium font was used in the mockup, the other elements can all be created with CSS.
 * Several patterns have been established already throughout the code. Try to pick up and follow them as much as you can.
 * We are using `styled-components` rather than standard CSS. We are interested in seeing how you can pick this up and apply it to the CSS paradigms that you already know. An example styled component [has been setup for you](https://github.com/Homepolish/frontend-challenge/blob/35b8767bfdbeefc8c797d76479131c4a624fe4c2/src/components/checklist.js#L4-L9). Styled components allow you to [pass state and generate styles based on that state ](https://www.styled-components.com/docs/basics#passed-props) in addition to allowing for some of the [SASS syntax that you might already know](https://www.styled-components.com/docs/faqs#can-i-nest-rules).
 * `styled-components` adds vendor prefixes already. Regardless, don't focus on browser support for this project.
 * Don't worry about media queries or adapting the layout. It is outside the scope of this project.
 * Mock data has [already been setup](https://github.com/Homepolish/frontend-challenge/blob/master/src/__mocks__/tasks.js) for you and the checklist component has [access to it as a prop](https://github.com/Homepolish/frontend-challenge/blob/35b8767bfdbeefc8c797d76479131c4a624fe4c2/src/components/checklist.js#L11). Assume that this will be coming from an API somewhere in a real world scenario, but what's important now is building the UI based on the data.
-* The exact font used in the repo doesn't match the design. Don't worry about that.
