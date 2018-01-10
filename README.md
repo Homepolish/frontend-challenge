@@ -1,6 +1,8 @@
 Homepolish Frontend Challenge
 ----
 
+This challenge is for candidates already involved in the Homepolish interview process. For current openings and to apply to an open position, visit our [jobs page](https://www.homepolish.com/jobs).
+
 ## Methodology
 
 This challenge is an attempt to replicate a real world project that a frontend engineer would encounter at Homepolish. The final product that you produce will be a small, isolated portion of a real set of features of the Homepolish web app. You get to see if the type of work makes sense for you and we as Homepolish get to see a semi-real representation of what your work would look like on our team.
