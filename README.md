@@ -54,9 +54,9 @@ Homepolish has 2 primary types of users: clients and designers. Throughout the d
 
 ## Submission
 
-**Important:** Push your finished work to a **private** repository. A privite Github or Bitbucket repos are acceptable places to push your code. When you're done, please give the following emails or users access to your solution:
+**Important:** Push your finished work to a **private** repository. A privite Github or Bitbucket repo is the place to push your code. When you're done, please give the following users or emails access to your solution:
 
-[Emails to add to private repo access](https://github.com/Homepolish/frontend-challenge/wiki/Emails-to-add-to-private-repo-access)
+[Users & Emails to add to private repo access](https://github.com/Homepolish/frontend-challenge/wiki/Emails-to-add-to-private-repo-access)
 
 ## Tips
 
